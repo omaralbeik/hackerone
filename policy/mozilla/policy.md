@@ -156,7 +156,7 @@ To be eligible for a reward under this program:
 * If you inadvertently access, modify, delete, or store user data, we ask that you notify Mozilla immediately at [security@mozilla.org](mailto:security@mozilla.org) and delete any stored data after notifying us.  
 * You should also use your best effort not to harm the availability or stability of our services, for example, by running aggressive scanning of those services. Instead, use a local development instance of the service that you want to test.  
 * Whenever it is explicitly stated in our program scope, you are expected to test on the provided instances (e.g. staging) instead of production.  
-* You must not be on a US sanctions list or in a country (e.g. Cuba, Iran, North Korea, Crimea region of Ukraine, Sudan, and Syria) on the US sanctions list.  
+* You must not be on a US sanctions list or in a country (e.g. Cuba, Iran, North Korea, Crimea region of Ukraine, and Sudan) on the US sanctions list.  
 * You must not exploit the security vulnerability for your own gain.  
 * Before sharing any part of the security issue with a third party, you must give us a reasonable amount of time to address the security issue.  
 * All submissions will be covered under [Mozilla's Website & Communications Terms of Use](https://www.mozilla.org/en-US/about/legal/terms/mozilla/), granting us permission to make use of all submissions.  
